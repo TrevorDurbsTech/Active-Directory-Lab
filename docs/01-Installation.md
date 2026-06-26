@@ -15,7 +15,7 @@ The objective of this phase was to build the foundation of the Active Directory 
 | Guest Operating System  | Windows Server 2022 Standard Evaluation (Desktop Experience) |
 | VM Name                 | DC01                                                         |
 | Memory                  | 4 GB                                                         |
-| Processors              | 2 vCPUs                                                      |
+| Processors              | 3 vCPUs                                                      |
 | Storage                 | 60 GB Dynamically Allocated VDI                              |
 
 ---
