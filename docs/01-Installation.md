@@ -24,7 +24,7 @@ The objective of this phase was to build the foundation of the Active Directory 
 
 The Windows Server virtual machine was created in Oracle VirtualBox and configured with resources suitable for running a small enterprise Active Directory environment. The configuration balances performance with efficient use of the host system's resources while leaving room to add additional virtual machines later in the project.
 
-![VirtualBox VM Settings](../screenshots/vm-settings.png)
+![VirtualBox VM Settings](../Screenshots/vm-settings.png)
 
 **Figure 1.** Oracle VirtualBox configuration for the DC01 virtual machine.
 
