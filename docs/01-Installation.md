@@ -13,7 +13,7 @@ The objective of this phase was to build the foundation of the Active Directory 
 | Host Operating System | Windows 11 |
 | Virtualization Platform | Oracle VirtualBox |
 | Guest Operating System | Windows Server 2022 Standard Evaluation (Desktop Experience) |
-| VM Name | DC01 |
+| VM Name | DC0 (later renamed to DC01) |
 | Memory | 4 GB |
 | Processors | 3 vCPUs |
 | Storage | 60 GB Dynamically Allocated VDI |
