@@ -93,7 +93,8 @@ The following validation steps were completed after installation:
 * Verified the domain controller responded to network connectivity tests.
 
 ![Network Config](../Screenshots/DC01-ipconfig.png)
-**Figure 2** DC01 IP configuration.
+
+**Figure 2.** DC01 IP configuration.
 ---
 
 ## Lessons Learned
