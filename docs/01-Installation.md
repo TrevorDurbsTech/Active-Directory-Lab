@@ -25,7 +25,7 @@ The objective of this phase was to build the foundation of the Active Directory 
 
 The Windows Server virtual machine was created in Oracle VirtualBox and configured with resources appropriate for a small enterprise Active Directory environment. The server serves as the central infrastructure for authentication, DNS name resolution, and DHCP address assignment for all domain-joined client computers in the lab.
 
-![VirtualBox VM Settings](../Screenshots/vm-settings.png)
+![VirtualBox VM Settings](../Screenshots/DC01-setup.png)
 
 **Figure 1.** Oracle VirtualBox configuration for the DC01 virtual machine.
 
