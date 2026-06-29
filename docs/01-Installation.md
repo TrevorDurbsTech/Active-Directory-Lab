@@ -92,10 +92,12 @@ The following validation steps were completed after installation:
 * Confirmed client computers could obtain IP addresses from DHCP.
 * Verified the domain controller responded to network connectivity tests.
 
+![Network Config](../Screenshots/DC01-ipconfig.png)
+**Figure 2** DC01 IP configuration.
 ---
 
 ## Lessons Learned
 
-Deploying the Domain Controller first established the core infrastructure required for the remainder of the lab. Configuring Active Directory, DNS, and DHCP on a dedicated Host-Only network created an isolated enterprise environment where Windows clients can safely join the domain, receive IP addresses automatically, resolve domain resources, and authenticate using centralized Active Directory accounts. This configuration closely mirrors a production Windows Server environment while remaining completely contained within Oracle VirtualBox.
+Building the Domain Controller first made the rest of the lab much easier to set up. Configuring Active Directory, DNS, and DHCP on an isolated Host-Only network helped me better understand how these services work together in a Windows domain environment.
 
 
