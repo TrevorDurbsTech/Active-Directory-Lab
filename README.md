@@ -54,7 +54,7 @@ This lab demonstrates core Windows Server administration skills including Active
 
 ## Key Components
 
-### 🖧 Domain Controller (DC01)
+### Domain Controller (DC01)
 
 * Windows Server 2022
 * Active Directory Domain Services (AD DS)
