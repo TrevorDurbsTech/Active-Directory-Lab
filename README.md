@@ -129,20 +129,6 @@ This lab demonstrates core Windows Server administration skills including Active
    * Authenticates against Active Directory
    * Logs in using domain credentials
 
----
-
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
-* VirtualBox VM configuration
-* `ipconfig /all` output from CLIENT01
-* Active Directory Users and Computers
-* Domain join confirmation screen
-* Successful domain login
-
----
-
 ## Lessons Learned
 
 This project reinforced how tightly integrated Active Directory, DNS, and DHCP are in a real Windows domain environment. Even when the network is technically working, small misconfigurations in DNS can prevent domain joins entirely.
