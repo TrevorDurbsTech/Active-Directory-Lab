@@ -45,6 +45,8 @@ Once Windows was installed, the machine automatically picked up its network sett
 
 At this point, CLIENT01 could properly see the domain controller on the network.
 
+![CLIENT01 ipconfig](../Screenshots/CLIENT01-ipconfig.png)
+
 ---
 
 ## Domain Join
