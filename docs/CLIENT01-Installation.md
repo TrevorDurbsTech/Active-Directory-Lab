@@ -30,6 +30,8 @@ After installation, I also bypassed the internet requirement during OOBE so I co
 
 ![VirtualBox VM Settings](../Screenshots/CLIENT01-setup.png)
 
+**Figure 1.** CLIENT01 VM Settings and Working.
+
 ---
 
 ## Network Setup
@@ -49,6 +51,8 @@ At this point, CLIENT01 could properly see the domain controller on the network.
 
 ![CLIENT01 ipconfig](../Screenshots/CLIENT01-ipconfig.png)
 
+**Figure 2.** CLIENT01 IP Configuration.
+
 ---
 
 ## Domain Join
@@ -56,6 +60,10 @@ At this point, CLIENT01 could properly see the domain controller on the network.
 After confirming DNS and connectivity were working, I joined CLIENT01 to the **trevortech.local** domain using the domain admin account.
 
 Once the machine rebooted, I was able to log in using a domain user account, confirming that the join was successful.
+
+![CLIENT01 Domain Join](../Screenshots/CLIENT01-domainjoin.png)
+
+**Figure 3.** CLIENT01 account after sign on.
 
 ---
 
