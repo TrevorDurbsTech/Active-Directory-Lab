@@ -46,7 +46,7 @@ The following checks were completed to confirm proper configuration:
 * Confirmed successful domain authentication from CLIENT01
 * Verified Active Directory is functioning as expected
 
-![Active Directory Verification](.../Screenshots/AD-user.png)
+![Active Directory Verification](../Screenshots/AD-user.png)
 
 **Figure 1.** Active Directory User and Group.
 
