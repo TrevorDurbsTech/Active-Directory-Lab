@@ -27,7 +27,9 @@ I installed Windows 11 Pro on a new virtual machine using the same Host-Only net
 During setup, Windows blocked the install because of hardware requirements (TPM and Secure Boot). I worked around this using registry edits during installation so I could continue with the setup in a virtual environment.
 
 After installation, I also bypassed the internet requirement during OOBE so I could create a local admin account instead of being forced into a Microsoft account.
+
 ![VirtualBox VM Settings](../Screenshots/CLIENT01-setup.png)
+
 ---
 
 ## Network Setup
