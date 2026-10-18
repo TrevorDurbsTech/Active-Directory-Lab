@@ -103,7 +103,7 @@ This lab demonstrates core Windows Server administration skills including Active
 
 ---
 
-## Key Skills Demonstrated
+## Key Skills
 
 * Windows Server administration
 * Active Directory domain configuration
